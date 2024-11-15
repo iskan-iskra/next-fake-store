@@ -13,7 +13,7 @@ interface Product {
   rating: number;
 }
 
-export async function getAllData() {
+async function getAllData() {
   const filePath = path.join(process.cwd(), "public", "mockDB.json");
   const fileData = fs.readFileSync(filePath, "utf8");
   const products: Product[] = JSON.parse(fileData);
