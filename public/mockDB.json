@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 1",
+    "category": "phones",
+    "description": "Description of iPhone 1",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 2,
+    "title": "Dell XPS 2",
+    "category": "laptops",
+    "description": "Description of Dell XPS 2",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 3,
+    "title": "Lenovo Tab 3",
+    "category": "tablets",
+    "description": "Description of Lenovo Tab 3",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 4,
+    "title": "Google Pixel 4",
+    "category": "phones",
+    "description": "Description of Google Pixel 4",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 5,
+    "title": "Asus ROG 5",
+    "category": "laptops",
+    "description": "Description of Asus ROG 5",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 6,
+    "title": "iPad Pro 6",
+    "category": "tablets",
+    "description": "Description of iPad Pro 6",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy 7",
+    "category": "phones",
+    "description": "Description of Samsung Galaxy 7",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 8,
+    "title": "HP Spectre 8",
+    "category": "laptops",
+    "description": "Description of HP Spectre 8",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 9,
+    "title": "Microsoft Surface 9",
+    "category": "tablets",
+    "description": "Description of Microsoft Surface 9",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "title": "OnePlus 10",
+    "category": "phones",
+    "description": "Description of OnePlus 10",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "title": "MacBook Pro 11",
+    "category": "laptops",
+    "description": "Description of MacBook Pro 11",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 12,
+    "title": "Samsung Tab 12",
+    "category": "tablets",
+    "description": "Description of Samsung Tab 12",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 13,
+    "title": "Xiaomi Redmi 13",
+    "category": "phones",
+    "description": "Description of Xiaomi Redmi 13",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 14,
+    "title": "Lenovo ThinkPad 14",
+    "category": "laptops",
+    "description": "Description of Lenovo ThinkPad 14",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 15,
+    "title": "Xiaomi Pad 15",
+    "category": "tablets",
+    "description": "Description of Xiaomi Pad 15",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 16,
+    "title": "iPhone 16",
+    "category": "phones",
+    "description": "Description of iPhone 16",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 17,
+    "title": "Dell XPS 17",
+    "category": "laptops",
+    "description": "Description of Dell XPS 17",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 18,
+    "title": "Lenovo Tab 18",
+    "category": "tablets",
+    "description": "Description of Lenovo Tab 18",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 19,
+    "title": "Google Pixel 19",
+    "category": "phones",
+    "description": "Description of Google Pixel 19",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "title": "Asus ROG 20",
+    "category": "laptops",
+    "description": "Description of Asus ROG 20",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 21,
+    "title": "iPad Pro 21",
+    "category": "tablets",
+    "description": "Description of iPad Pro 21",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 22,
+    "title": "Samsung Galaxy 22",
+    "category": "phones",
+    "description": "Description of Samsung Galaxy 22",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 23,
+    "title": "HP Spectre 23",
+    "category": "laptops",
+    "description": "Description of HP Spectre 23",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 24,
+    "title": "Microsoft Surface 24",
+    "category": "tablets",
+    "description": "Description of Microsoft Surface 24",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 25,
+    "title": "OnePlus 25",
+    "category": "phones",
+    "description": "Description of OnePlus 25",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 26,
+    "title": "MacBook Pro 26",
+    "category": "laptops",
+    "description": "Description of MacBook Pro 26",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 27,
+    "title": "Samsung Tab 27",
+    "category": "tablets",
+    "description": "Description of Samsung Tab 27",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 28,
+    "title": "Xiaomi Redmi 28",
+    "category": "phones",
+    "description": "Description of Xiaomi Redmi 28",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 29,
+    "title": "Lenovo ThinkPad 29",
+    "category": "laptops",
+    "description": "Description of Lenovo ThinkPad 29",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 30,
+    "title": "Xiaomi Pad 30",
+    "category": "tablets",
+    "description": "Description of Xiaomi Pad 30",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 31,
+    "title": "iPhone 31",
+    "category": "phones",
+    "description": "Description of iPhone 31",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 32,
+    "title": "Dell XPS 32",
+    "category": "laptops",
+    "description": "Description of Dell XPS 32",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 33,
+    "title": "Lenovo Tab 33",
+    "category": "tablets",
+    "description": "Description of Lenovo Tab 33",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 34,
+    "title": "Google Pixel 34",
+    "category": "phones",
+    "description": "Description of Google Pixel 34",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 35,
+    "title": "Asus ROG 35",
+    "category": "laptops",
+    "description": "Description of Asus ROG 35",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 36,
+    "title": "iPad Pro 36",
+    "category": "tablets",
+    "description": "Description of iPad Pro 36",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 37,
+    "title": "Samsung Galaxy 37",
+    "category": "phones",
+    "description": "Description of Samsung Galaxy 37",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 38,
+    "title": "HP Spectre 38",
+    "category": "laptops",
+    "description": "Description of HP Spectre 38",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 39,
+    "title": "Microsoft Surface 39",
+    "category": "tablets",
+    "description": "Description of Microsoft Surface 39",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 40,
+    "title": "OnePlus 40",
+    "category": "phones",
+    "description": "Description of OnePlus 40",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 41,
+    "title": "MacBook Pro 41",
+    "category": "laptops",
+    "description": "Description of MacBook Pro 41",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 42,
+    "title": "Samsung Tab 42",
+    "category": "tablets",
+    "description": "Description of Samsung Tab 42",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 43,
+    "title": "Xiaomi Redmi 43",
+    "category": "phones",
+    "description": "Description of Xiaomi Redmi 43",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 44,
+    "title": "Lenovo ThinkPad 44",
+    "category": "laptops",
+    "description": "Description of Lenovo ThinkPad 44",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 45,
+    "title": "Xiaomi Pad 45",
+    "category": "tablets",
+    "description": "Description of Xiaomi Pad 45",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 46,
+    "title": "iPhone 46",
+    "category": "phones",
+    "description": "Description of iPhone 46",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 47,
+    "title": "Dell XPS 47",
+    "category": "laptops",
+    "description": "Description of Dell XPS 47",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 48,
+    "title": "Lenovo Tab 48",
+    "category": "tablets",
+    "description": "Description of Lenovo Tab 48",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 49,
+    "title": "Google Pixel 49",
+    "category": "phones",
+    "description": "Description of Google Pixel 49",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 50,
+    "title": "Asus ROG 50",
+    "category": "laptops",
+    "description": "Description of Asus ROG 50",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 51,
+    "title": "iPad Pro 51",
+    "category": "tablets",
+    "description": "Description of iPad Pro 51",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 52,
+    "title": "Samsung Galaxy 52",
+    "category": "phones",
+    "description": "Description of Samsung Galaxy 52",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 53,
+    "title": "HP Spectre 53",
+    "category": "laptops",
+    "description": "Description of HP Spectre 53",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 54,
+    "title": "Microsoft Surface 54",
+    "category": "tablets",
+    "description": "Description of Microsoft Surface 54",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 55,
+    "title": "OnePlus 55",
+    "category": "phones",
+    "description": "Description of OnePlus 55",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 56,
+    "title": "MacBook Pro 56",
+    "category": "laptops",
+    "description": "Description of MacBook Pro 56",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 57,
+    "title": "Samsung Tab 57",
+    "category": "tablets",
+    "description": "Description of Samsung Tab 57",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 58,
+    "title": "Xiaomi Redmi 58",
+    "category": "phones",
+    "description": "Description of Xiaomi Redmi 58",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 59,
+    "title": "Lenovo ThinkPad 59",
+    "category": "laptops",
+    "description": "Description of Lenovo ThinkPad 59",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 60,
+    "title": "Xiaomi Pad 60",
+    "category": "tablets",
+    "description": "Description of Xiaomi Pad 60",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 61,
+    "title": "iPhone 61",
+    "category": "phones",
+    "description": "Description of iPhone 61",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 62,
+    "title": "Dell XPS 62",
+    "category": "laptops",
+    "description": "Description of Dell XPS 62",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 63,
+    "title": "Lenovo Tab 63",
+    "category": "tablets",
+    "description": "Description of Lenovo Tab 63",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 64,
+    "title": "Google Pixel 64",
+    "category": "phones",
+    "description": "Description of Google Pixel 64",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 65,
+    "title": "Asus ROG 65",
+    "category": "laptops",
+    "description": "Description of Asus ROG 65",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 66,
+    "title": "iPad Pro 66",
+    "category": "tablets",
+    "description": "Description of iPad Pro 66",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 67,
+    "title": "Samsung Galaxy 67",
+    "category": "phones",
+    "description": "Description of Samsung Galaxy 67",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 68,
+    "title": "HP Spectre 68",
+    "category": "laptops",
+    "description": "Description of HP Spectre 68",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 69,
+    "title": "Microsoft Surface 69",
+    "category": "tablets",
+    "description": "Description of Microsoft Surface 69",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 70,
+    "title": "OnePlus 70",
+    "category": "phones",
+    "description": "Description of OnePlus 70",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 71,
+    "title": "MacBook Pro 71",
+    "category": "laptops",
+    "description": "Description of MacBook Pro 71",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 72,
+    "title": "Samsung Tab 72",
+    "category": "tablets",
+    "description": "Description of Samsung Tab 72",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 73,
+    "title": "Xiaomi Redmi 73",
+    "category": "phones",
+    "description": "Description of Xiaomi Redmi 73",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 74,
+    "title": "Lenovo ThinkPad 74",
+    "category": "laptops",
+    "description": "Description of Lenovo ThinkPad 74",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 75,
+    "title": "Xiaomi Pad 75",
+    "category": "tablets",
+    "description": "Description of Xiaomi Pad 75",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 76,
+    "title": "iPhone 76",
+    "category": "phones",
+    "description": "Description of iPhone 76",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 77,
+    "title": "Dell XPS 77",
+    "category": "laptops",
+    "description": "Description of Dell XPS 77",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 78,
+    "title": "Lenovo Tab 78",
+    "category": "tablets",
+    "description": "Description of Lenovo Tab 78",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 79,
+    "title": "Google Pixel 79",
+    "category": "phones",
+    "description": "Description of Google Pixel 79",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 80,
+    "title": "Asus ROG 80",
+    "category": "laptops",
+    "description": "Description of Asus ROG 80",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 81,
+    "title": "iPad Pro 81",
+    "category": "tablets",
+    "description": "Description of iPad Pro 81",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 82,
+    "title": "Samsung Galaxy 82",
+    "category": "phones",
+    "description": "Description of Samsung Galaxy 82",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 83,
+    "title": "HP Spectre 83",
+    "category": "laptops",
+    "description": "Description of HP Spectre 83",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 84,
+    "title": "Microsoft Surface 84",
+    "category": "tablets",
+    "description": "Description of Microsoft Surface 84",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 85,
+    "title": "OnePlus 85",
+    "category": "phones",
+    "description": "Description of OnePlus 85",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 86,
+    "title": "MacBook Pro 86",
+    "category": "laptops",
+    "description": "Description of MacBook Pro 86",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 87,
+    "title": "Samsung Tab 87",
+    "category": "tablets",
+    "description": "Description of Samsung Tab 87",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 88,
+    "title": "Xiaomi Redmi 88",
+    "category": "phones",
+    "description": "Description of Xiaomi Redmi 88",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 89,
+    "title": "Lenovo ThinkPad 89",
+    "category": "laptops",
+    "description": "Description of Lenovo ThinkPad 89",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 90,
+    "title": "Xiaomi Pad 90",
+    "category": "tablets",
+    "description": "Description of Xiaomi Pad 90",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  },
+  {
+    "id": 91,
+    "title": "iPhone 91",
+    "category": "phones",
+    "description": "Description of iPhone 91",
+    "price": 1000,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.0
+  },
+  {
+    "id": 92,
+    "title": "Dell XPS 92",
+    "category": "laptops",
+    "description": "Description of Dell XPS 92",
+    "price": 1100,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 1.4
+  },
+  {
+    "id": 93,
+    "title": "Lenovo Tab 93",
+    "category": "tablets",
+    "description": "Description of Lenovo Tab 93",
+    "price": 1200,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 1.8
+  },
+  {
+    "id": 94,
+    "title": "Google Pixel 94",
+    "category": "phones",
+    "description": "Description of Google Pixel 94",
+    "price": 1300,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 2.2
+  },
+  {
+    "id": 95,
+    "title": "Asus ROG 95",
+    "category": "laptops",
+    "description": "Description of Asus ROG 95",
+    "price": 1400,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 2.6
+  },
+  {
+    "id": 96,
+    "title": "iPad Pro 96",
+    "category": "tablets",
+    "description": "Description of iPad Pro 96",
+    "price": 1500,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.0
+  },
+  {
+    "id": 97,
+    "title": "Samsung Galaxy 97",
+    "category": "phones",
+    "description": "Description of Samsung Galaxy 97",
+    "price": 1600,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 3.4
+  },
+  {
+    "id": 98,
+    "title": "HP Spectre 98",
+    "category": "laptops",
+    "description": "Description of HP Spectre 98",
+    "price": 1700,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 3.8
+  },
+  {
+    "id": 99,
+    "title": "Microsoft Surface 99",
+    "category": "tablets",
+    "description": "Description of Microsoft Surface 99",
+    "price": 1800,
+    "currency": "USD",
+    "image": "https://placehold.co/200",
+    "rating": 4.2
+  },
+  {
+    "id": 100,
+    "title": "OnePlus 100",
+    "category": "phones",
+    "description": "Description of OnePlus 100",
+    "price": 1900,
+    "currency": "EUR",
+    "image": "https://placehold.co/200",
+    "rating": 4.6
+  }
+]
